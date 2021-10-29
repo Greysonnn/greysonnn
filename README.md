@@ -1,5 +1,3 @@
-<!-- Top Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greysonnn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Badges -->
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br>
@@ -13,3 +11,5 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) -->
+<!-- Top Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greysonnn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
