@@ -20,5 +20,5 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/99GG.png" alt="TryHackMe">
 
 ```
-Open to developer || security roles. Feel free to reach out and have a conversation. 
+Open to developer || security roles. Feel free to reach out and strike up a conversation.
 ```
