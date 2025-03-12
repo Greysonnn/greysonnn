@@ -1,3 +1,7 @@
+   /_/\  
+  ( o.o ) 
+   > ^ <
+
 # 👋 Hi, I’m Greyson
 Welcome to my GitHub profile! I’m a passionate developer and security enthusiast with a knack for building robust, scalable solutions and exploring cutting-edge technologies. I’m always eager to learn, collaborate, and tackle new challenges in development and cybersecurity.
 
@@ -31,13 +35,15 @@ Here’s a look at my coding activity and most-used languages:
 ---
 
 ## 🏆 Certifications & Achievements
-- **TryHackMe**: Actively engaged in cybersecurity challenges and learning.  
+- **TryHackMe**: Actively engaged in cybersecurity challenges and learning.
+  
   <img src="https://tryhackme-badges.s3.amazonaws.com/99GG.png" alt="TryHackMe" width="200">
 
 ---
 
 ## 🌐 Projects & Contributions
 I’m working on a variety of projects, from web applications and smart contracts to automation scripts and security tools. Check out my repositories to see my latest work, including:
+
 - **Automation Tools**: Python scripts for task scheduling and trigger-based workflows (e.g., using BabyAGI or CrewAI).
 - **Blockchain Projects**: Solidity-based smart contracts for Ethereum.
 - **Security Research**: Linux-based tools for penetration testing and vulnerability assessment.
@@ -48,3 +54,10 @@ Feel free to explore, fork, or contribute to any of my projects!
 
 ## 🤝 Let’s Connect
 I’m open to development and security work, whether it’s a collaboration, mentorship, or job opportunity. Let’s strike up a conversation!
+
+   /_/\  
+  ( o.o ) 
+   > ^ <
+   -- HACK THE PLANET --
+> 
+---
