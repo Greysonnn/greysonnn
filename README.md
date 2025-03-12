@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m a passionate developer and security enthusia
 - 🌱 I’m learning advanced Python for data science, Solidity for smart contracts, and C++ for performance-critical applications.
 - 💻 I specialize in Linux environments, JavaScript for web development, and Python for automation and scripting.
 - 🎯 Open to opportunities in software development, cybersecurity, and blockchain projects—feel free to reach out!
-- 📫 How to reach me: [Email me](mailto:greyson@example.com) or connect with me on [LinkedIn](https://linkedin.com/in/greyson).
+- 📫 How to reach me: [Email me](mailto:greyson@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/greyson-evers-70b72a20a/).
 
 ---
 
@@ -50,6 +50,5 @@ Feel free to explore, fork, or contribute to any of my projects!
 
 ## 🤝 Let’s Connect
 I’m open to development and security work, whether it’s a collaboration, mentorship, or job opportunity. Let’s strike up a conversation!
-
 
 ```
