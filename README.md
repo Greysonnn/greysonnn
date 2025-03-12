@@ -1,6 +1,6 @@
 ```
 
-# 👋 Hi, I’m Greyson!
+# 👋 Hi, I’m Greyson
 Welcome to my GitHub profile! I’m a passionate developer and security enthusiast with a knack for building robust, scalable solutions and exploring cutting-edge technologies. I’m always eager to learn, collaborate, and tackle new challenges in development and cybersecurity.
 
 ---
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m a passionate developer and security enthusia
 - 🌱 I’m learning advanced Python for data science, Solidity for smart contracts, and C++ for performance-critical applications.
 - 💻 I specialize in Linux environments, JavaScript for web development, and Python for automation and scripting.
 - 🎯 Open to opportunities in software development, cybersecurity, and blockchain projects—feel free to reach out!
-- 📫 How to reach me: [Email me](mailto:greyson@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/greyson-evers-70b72a20a/).
+- 📫 How to reach me: [Email me](mailto:greyson@example.com) or connect with me on [LinkedIn](https://linkedin.com/in/greyson).
 
 ---
 
@@ -18,10 +18,10 @@ Welcome to my GitHub profile! I’m a passionate developer and security enthusia
 I work with a variety of tools and languages to bring ideas to life. Here’s a snapshot of my toolkit:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
