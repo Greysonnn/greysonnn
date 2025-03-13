@@ -1,8 +1,10 @@
 
-# 👋 Hi, I’m Greyson
-Welcome to my GitHub profile! I’m a passionate developer and security enthusiast with a knack for building robust, scalable solutions and exploring cutting-edge technologies. I’m always eager to learn, collaborate, and tackle new challenges in development and cybersecurity.
+## 👋 Hi, I’m Greyson
 
----
+<!--
+Welcome to my GitHub profile! I’m a passionate developer and security enthusiast with a knack for building robust, scalable solutions and exploring cutting-edge technologies. I’m always eager to learn, collaborate, and tackle new challenges in development and cybersecurity.
+-->
+
 
 ## 🚀 About Me
 - 🔭 I’m currently exploring AI agents, automation tools, and blockchain technologies to create innovative solutions.
