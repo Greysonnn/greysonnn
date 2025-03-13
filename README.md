@@ -1,6 +1,3 @@
-   /_/\  
-  ( o.o ) 
-   > ^ <
 
 # 👋 Hi, I’m Greyson
 Welcome to my GitHub profile! I’m a passionate developer and security enthusiast with a knack for building robust, scalable solutions and exploring cutting-edge technologies. I’m always eager to learn, collaborate, and tackle new challenges in development and cybersecurity.
