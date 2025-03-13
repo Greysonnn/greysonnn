@@ -4,9 +4,9 @@
 <!--
 Welcome to my GitHub profile! I’m a passionate developer and security enthusiast with a knack for building robust, scalable solutions and exploring cutting-edge technologies. I’m always eager to learn, collaborate, and tackle new challenges in development and cybersecurity.
 -->
-
-
+<!--
 ## 🚀 About Me
+-->
 - 🔭 I’m currently exploring AI agents, automation tools, and blockchain technologies to create innovative solutions.
 - 🌱 I’m learning advanced Python for data science, Solidity for smart contracts, and C++ for performance-critical applications.
 - 💻 I specialize in Linux environments, JavaScript for web development, and Python for automation and scripting.
