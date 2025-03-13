@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I’m a passionate developer and security enthusia
 ---
 
 ## 🛠️ Skills & Technologies
-I work with a variety of tools and languages to bring ideas to life. Here’s a snapshot of my toolkit:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
@@ -37,8 +36,6 @@ I’m working on a variety of projects, from web applications and smart contract
 - **Automation Tools**: Python scripts for task scheduling and trigger-based workflows (e.g., using BabyAGI or CrewAI).
 - **Blockchain Projects**: Solidity-based smart contracts for Ethereum.
 - **Security Research**: Linux-based tools for penetration testing and vulnerability assessment.
-
-Feel free to explore, fork, or contribute to any of my projects!
 
 ---
 
