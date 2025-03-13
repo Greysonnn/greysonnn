@@ -21,17 +21,14 @@ I work with a variety of tools and languages to bring ideas to life. Here’s a 
 ---
 
 ## 📊 GitHub Stats
-Here’s a look at my coding activity and most-used languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greysonnn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ## 🏆 Certifications & Achievements
 - **TryHackMe**: Actively engaged in cybersecurity challenges and learning.
   
   <img src="https://tryhackme-badges.s3.amazonaws.com/99GG.png" alt="TryHackMe" width="200">
-
 ---
 
 ## 🌐 Projects & Contributions
@@ -45,12 +42,8 @@ Feel free to explore, fork, or contribute to any of my projects!
 
 ---
 
-## 🤝 Let’s Connect
-I’m open to development and security work, whether it’s a collaboration, mentorship, or job opportunity. Let’s strike up a conversation!
-
    /_/\  
   ( o.o ) 
    > ^ <
-   -- HACK THE PLANET --
-> 
+   -- HACK THE PLANET --> 
 ---
